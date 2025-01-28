@@ -1,8 +1,8 @@
 ### Project Description
 
-# The purpose of this project is to analyze a heart disease prediction dataset. The goal of the assignment is to predict whether someone will suffer from a heart attack. 
+The purpose of this project is to analyze a heart disease prediction dataset. The goal of the assignment is to predict whether someone will suffer from a heart attack. 
 
-# The dataset(heart.csv) includes information on:
+The dataset(heart.csv) includes information on:
 - age
 - sex
 - cp (chest pain)
